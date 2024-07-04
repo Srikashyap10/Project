@@ -1,0 +1,5838 @@
+[
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2247",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TPI88T66",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PCL10B105KO8NNNC",
+        "type": "CODE128"
+    },
+    {
+        "data": "PI88T6601800004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2247",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TPI88T66",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PCL10B105KO8NNNC",
+        "type": "CODE128"
+    },
+    {
+        "data": "PI88T6601800004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-40,0,NA,A451,1N4007W-HAF,-,UUID&IKIO24000187",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524162236",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,0,NA,A451,1N4007W-HAF,-,UUID&IKIO24000187",
+        "type": "QRCODE"
+    },
+    {
+        "data": "QIK1690524162236",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,0,NA,A451,1N4007W-HAF,-,UUID&IKIO24000187",
+        "type": "QRCODE"
+    },
+    {
+        "data": "QIK1690524162236",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524162236",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-116,000 ,NA,B140,4E-211004-,-,UUID&IKIO24000201",
+        "type": "QRCODE"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524162236",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524162236",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524162236",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524162236",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "DD2502F4002C",
+        "type": "CODE128"
+    },
+    {
+        "data": "DD2502F4002C",
+        "type": "CODE128"
+    },
+    {
+        "data": "DD2502F4002C",
+        "type": "CODE128"
+    },
+    {
+        "data": "DD2502F4002C",
+        "type": "CODE128"
+    },
+    {
+        "data": "DD2502F4002C",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-136,4000,DD2502F4002C,B158,BBBK00160808262Y00,-,UUID&IKIO24000205",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-136,4000,DD2502F4002C,B158,BBBK00160808262Y00,-,UUID&IKIO24000205",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BR123795GRN09546-RES-0E-0805-SMD22042023",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BR123795GRN09546-RES-0E-0805-SMD22042023",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1674543547772",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1674543547772",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1674543547772",
+        "type": "CODE128"
+    },
+    {
+        "data": "N78185H019R002",
+        "type": "CODE93"
+    },
+    {
+        "data": "N78185H019R002",
+        "type": "CODE93"
+    },
+    {
+        "data": "N78185H019R002",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-111,3000,2815CE297,B135,4E214034,-,UUID&IKIO24000213",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-111,3000,2815CE297,B135,4E214034,-,UUID&IKIO24000213",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-111,3000,2815CE297,B135,4E214034,-,UUID&IKIO24000213",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "2815CE297",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "2815CE297",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E214034",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "2815CE297",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E214034",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "2815CE297",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E214034",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-26,3000,2815CE297,A437,SS10100FL_R1_00001,-,UUID&IKIO24000216",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-37,3000,NA,A448,MM1Z5240B,-,UUID&IKIO24000217",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1674543534492",
+        "type": "CODE128"
+    },
+    {
+        "data": "30412",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-37,3000,NA,A448,MM1Z5240B,-,UUID&IKIO24000217",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1674543534492",
+        "type": "CODE128"
+    },
+    {
+        "data": "30412",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213078",
+        "type": "CODE128"
+    },
+    {
+        "data": "022723MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5240B",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TAI4OPE3",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B334KO8NNNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2222",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-95,4000,AI4OPE3,B119,CL10B334K08NNNC,04/06/2022,UUID&IKIO24000219",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2222",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B334KO8NNNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TAI4OPE3",
+        "type": "CODE39"
+    },
+    {
+        "data": "13",
+        "type": "CODE39"
+    },
+    {
+        "data": "13",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA712130004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-77,4000,BH8DTA7,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000221",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA712130004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "WR06X472 JTL    5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "440407265-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X472 JTL    330M1023020215",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-9,5000,NA,A420,WR06X472JTL,-,UUID&IKIO24000222",
+        "type": "QRCODE"
+    },
+    {
+        "data": "WR06X472 JTL    5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "440407265-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X472 JTL    330M1023020215",
+        "type": "CODE93"
+    },
+    {
+        "data": "undefined,10,8522888877,TR24006004,934663618115,2323,                 UUID&TR24006004",
+        "type": "QRCODE"
+    },
+    {
+        "data": "55",
+        "type": "CODE39"
+    },
+    {
+        "data": "1P934663618115",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2323",
+        "type": "CODE39"
+    },
+    {
+        "data": "55",
+        "type": "CODE39"
+    },
+    {
+        "data": "1P934663618115",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2323",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-140,5000,NA,B159,RC1206FR07470RL,26/03/2022,UUID&IKIO24000224",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-118,4000,AIIEHTS,B142,CL10B103KB8NNNC,18/06/2022,UUID&IKIO24000225",
+        "type": "QRCODE"
+    },
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2224",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TAIIEHTS",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161546",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161546",
+        "type": "CODE128"
+    },
+    {
+        "data": "21214",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "100821MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2214",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-80,2000,AI2GT9V,B104,CL21B106KPQNNNE,09/04/2022,UUID&IKIO24000227",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8CTD7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8CTD703810004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-77,4000,BH8CTD7,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000228",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490030",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000229",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000229",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000229",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490030",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000229",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490030",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "21214",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603SAF1002T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "14566736",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060031-103",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL231100000367",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-29,5000,14566736,A440,4E060031-103,-,UUID&IKIO24000231",
+        "type": "QRCODE"
+    },
+    {
+        "data": "14566736",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-29,5000,14566736,A440,4E060031-103,-,UUID&IKIO24000231",
+        "type": "QRCODE"
+    },
+    {
+        "data": "0603SAF1002T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14566736",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060031-103",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL231100000367",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2212",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL21B106KPQNNNE",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TAI22TC1",
+        "type": "CODE39"
+    },
+    {
+        "data": "RX1685526490114",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000233",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490114",
+        "type": "CODE128"
+    },
+    {
+        "data": "AI14T4N01360002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "09.02.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E111177",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-80,2000,AI14T4N,B104,CL21B106KPQNNNE,12/02/2022,UUID&IKIO24000234",
+        "type": "QRCODE"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-22,2500,NA,A433,ZMM4V7,-,UUID&IKIO24000239",
+        "type": "QRCODE"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-22,2500,NA,A433,ZMM4V7,-,UUID&IKIO24000239",
+        "type": "QRCODE"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-28,10000,14492499,A439,4E060069-472,-,UUID&IKIO24000127",
+        "type": "QRCODE"
+    },
+    {
+        "data": "0402WGF4701TCE",
+        "type": "CODE128"
+    },
+    {
+        "data": "10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14492499",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060069-472",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL230400000299",
+        "type": "CODE128"
+    },
+    {
+        "data": "DD2502EF004X",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-136,4000,DD2502EF004X,B158,BBBK00160808262Y00,-,UUID&IKIO24000241",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-136,4000,DD2502EF004X,B158,BBBK00160808262Y00,-,UUID&IKIO24000242",
+        "type": "QRCODE"
+    },
+    {
+        "data": "DD2502EF004X",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-136,4000,DD2502EF004X,B158,BBBK00160808262Y00,-,UUID&IKIO24000242",
+        "type": "QRCODE"
+    },
+    {
+        "data": "DD2502EF004X",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-136,4000,DD2502EF004X,B158,BBBK00160808262Y00,-,UUID&IKIO24000242",
+        "type": "QRCODE"
+    },
+    {
+        "data": "DD2502EF004X",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-12,4000,BH8CTD7,A423,CL10B474KO8NFNC,24/09/2021,UUID&IKIO24000248",
+        "type": "QRCODE"
+    },
+    {
+        "data": "H",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8CTD7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8CTD706620004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "QIK1695359765",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "60129-0504,4000,NA,A412,0603B333K500CT,-,UUID&IKIO24005004",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440177257-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR12X2493FTL    330M1414220665",
+        "type": "CODE93"
+    },
+    {
+        "data": "60129-0504,4000,NA,A412,0603B333K500CT,-,UUID&IKIO24005004",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440177257-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR12X2493FTL    330M1414220665",
+        "type": "CODE93"
+    },
+    {
+        "data": "440177257-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-87,5000,NA,B111,4E-060017-2493,-,UUID&IKIO24000252",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440177257-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1685526490025",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2305",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PSP001286056",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TGW318005G01",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-18,3000,GW318005G01,A429,TLV493D-A1B6,05/02/2023,UUID&IKIO24000256",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3PMA005700542",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PSP001286056",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1685526490025",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-18,3000,GW318005G01,A429,TLV493D-A1B6,05/02/2023,UUID&IKIO24000256",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PSP001286056",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TGW318005G01",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1685526490025",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E111071",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603N220J500CT    4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E111071",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E111071",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-141,4000,NA,B160,0603N220J500CT,-,UUID&IKIO24000258",
+        "type": "QRCODE"
+    },
+    {
+        "data": "0603N220J500CT    4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E111071",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-23,3000,B231120678,A434,MMA02040C2493FB300,19/03/2023,UUID&IKIO24000259",
+        "type": "QRCODE"
+    },
+    {
+        "data": "HBEH231120678100",
+        "type": "CODE39"
+    },
+    {
+        "data": "PCC0805KRX7R9BB104",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2208",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PCC0805KRX7R9BB104",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-142,4000,NA,B161,CC0805KRX7R9BB104,-,UUID&IKIO24000260",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2208",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-142,4000,NA,B161,CC0805KRX7R9BB104,-,UUID&IKIO24000260",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2240",
+        "type": "CODE39"
+    },
+    {
+        "data": "60",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-100,3000,WEPB3964314A,B124,NX3008PBK,08/10/2022,UUID&IKIO24000261",
+        "type": "QRCODE"
+    },
+    {
+        "data": "60",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TIA2914FQ0",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PGCM31CR71H225KA55L",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "P12-PL-228-1-0",
+        "type": "CODE128"
+    },
+    {
+        "data": "5cb7baefb8",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TIA2914FQ0",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PGCM31CR71H225KA55L",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "P12-PL-228-1-0",
+        "type": "CODE128"
+    },
+    {
+        "data": "5cb7baefb8",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TIA2914FQ0",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PGCM31CR71H225KA55L",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "P12-PL-228-1-0",
+        "type": "CODE128"
+    },
+    {
+        "data": "5cb7baefb8",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686525",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-87,5000,14686525,B111,4E-060017-2493,-,UUID&IKIO24000264",
+        "type": "QRCODE"
+    },
+    {
+        "data": "0603B104K500CTXW135N0150885444",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-4,4000,NA,A415,0603B104K500CT,-,UUID&IKIO24000265",
+        "type": "QRCODE"
+    },
+    {
+        "data": "4E111070",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603B104K500CTXW135N0150885444",
+        "type": "CODE93"
+    },
+    {
+        "data": "RX1685526490063",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161408",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161408",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161408",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161408",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161408",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000274",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3177984EM3",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "G3",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E233052",
+        "type": "CODE128"
+    },
+    {
+        "data": "2330",
+        "type": "CODE128"
+    },
+    {
+        "data": "MY",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-112,3000,3177984EM3,B136,LP2981IM5X-36C,30/07/2023,UUID&IKIO24000275",
+        "type": "QRCODE"
+    },
+    {
+        "data": "G3",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "2330",
+        "type": "CODE128"
+    },
+    {
+        "data": "MY",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E233052",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1685526490057",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1685526490057",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-146,3000,2003529NFM,B165,SN1603068DBVR,-,UUID&IKIO24000276",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490057",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-146,3000,2003529NFM,B165,SN1603068DBVR,-,UUID&IKIO24000276",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490057",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-23,3000,B23,A434,MMA02040C2493FB300,22/01/2023,UUID&IKIO24000277",
+        "type": "QRCODE"
+    },
+    {
+        "data": "HBEH230310643059",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA707900004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-77,4000,BH8DTA7,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000278",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BH8DTA707900004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA707900004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-77,4000,BH8DTA7,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000278",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BH8DTA707900004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA707900004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-147,10000,EE9RP48,B166,CL05B103KB5NNNC,15/10/2018,UUID&IKIO24000279",
+        "type": "QRCODE"
+    },
+    {
+        "data": "4",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-12,4000,BH8DTA7,A423,CL10B474KO8NFNC,24/09/2021,UUID&IKIO24000280",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BH8DTA712060004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-12,4000,BH8DTA7,A423,CL10B474KO8NFNC,24/09/2021,UUID&IKIO24000280",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BH8DTA712060004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "0402WGF1002TCE",
+        "type": "CODE128"
+    },
+    {
+        "data": "10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14773691",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060069-103",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL232100000238",
+        "type": "CODE128"
+    },
+    {
+        "data": "14773691",
+        "type": "CODE128"
+    },
+    {
+        "data": "10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-148,10000,14773691,B167,4E060069-103,-,UUID&IKIO24000282",
+        "type": "QRCODE"
+    },
+    {
+        "data": "7209020079-0100B",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL223500000774",
+        "type": "CODE128"
+    },
+    {
+        "data": "BRS191-154",
+        "type": "CODE128"
+    },
+    {
+        "data": "14082871",
+        "type": "CODE128"
+    },
+    {
+        "data": "10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "0402WGF1503TCE",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-52,10000,14082871,A463,BRS191-154,-,UUID&IKIO24000283",
+        "type": "QRCODE"
+    },
+    {
+        "data": "7209020079-0100B",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL223500000774",
+        "type": "CODE128"
+    },
+    {
+        "data": "BRS191-154",
+        "type": "CODE128"
+    },
+    {
+        "data": "14082871",
+        "type": "CODE128"
+    },
+    {
+        "data": "10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "0402WGF1503TCE",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-47,3000,8212D3B-5577,A458,TBAT54C,LM,-,UUID&IKIO24000286",
+        "type": "QRCODE"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "CS05W8F300KT5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "14773695",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-060019-3R",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL232200000040",
+        "type": "CODE128"
+    },
+    {
+        "data": "440407265-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH84T2400350004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111189",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH84T2400350004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "AJ2CIEG05250010000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-14,10000,AJ2CIEG,A425,CL05B104KA5NNNC,19/03/2023,UUID&IKIO24000291",
+        "type": "QRCODE"
+    },
+    {
+        "data": "AJ2CIEG05250010000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-23,3000,HBEH230310730041,A434,MMA02040C2493FB300,22/01/2023,UUID&IKIO24000292",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-65,5000,30109087H00900,A476,C2353,-,UUID&IKIO24000293",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2308",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2308",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-4,4000,NA,A415,0603B104K500CT,-,UUID&IKIO24000295",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-22,2500,NA,A433,ZMM4V7,-,UUID&IKIO24000296",
+        "type": "QRCODE"
+    },
+    {
+        "data": "WR06X103 JTL    330M1137263955",
+        "type": "CODE93"
+    },
+    {
+        "data": "Y38163754003000WT0Q5I9T",
+        "type": "CODE39"
+    },
+    {
+        "data": "RX1685526490132",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-38,3000,8212C3J-5011,A449,SSM3J325F,LF,-,UUID&IKIO24000299",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490132",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-38,3000,8212C3J-5011,A449,SSM3J325F,LF,-,UUID&IKIO24000299",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490132",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-38,3000,8212C3J-5011,A449,SSM3J325F,LF,-,UUID&IKIO24000299",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490132",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-47,3000,8212D2K-5263,A458,TBAT54C,LM,-,UUID&IKIO24000300",
+        "type": "QRCODE"
+    },
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "PI88T6608380004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2247",
+        "type": "CODE128"
+    },
+    {
+        "data": "PI88T6608380004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TPI88T66",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PCL10B105KO8NNNC",
+        "type": "CODE128"
+    },
+    {
+        "data": "PI88T6608380004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD105690004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-77,4000,BH7TTD1,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000303",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BH7TTD105690004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-65,5000,30109087H00900,A476,C2353,-,UUID&IKIO24000304",
+        "type": "QRCODE"
+    },
+    {
+        "data": "QIK1690524161602",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000305",
+        "type": "QRCODE"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161602",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000305",
+        "type": "QRCODE"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161602",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000305",
+        "type": "QRCODE"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161602",
+        "type": "CODE128"
+    },
+    {
+        "data": "AJ3LHUC02350010000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA704820004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-122,3000,NA,B146,4E213046,-,UUID&IKIO24000308",
+        "type": "QRCODE"
+    },
+    {
+        "data": "4E231171",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1674543098841",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "311147957",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-25,3000,311147957,A436,BAS21S_R1_00001,-,UUID&IKIO24000310",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "311147957",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "RO-ESPL221200016742",
+        "type": "CODE128"
+    },
+    {
+        "data": "13726301",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603SAF1003T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-114,3000,1285176NFM,B138,INA214BIDCKR,-,UUID&IKIO24000313",
+        "type": "QRCODE"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000314",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000314",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490121",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "13.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "13.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2206",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "AI13T2Z04160002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "PI88T6608010004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2247",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2222",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBI43P2W",
+        "type": "CODE39"
+    },
+    {
+        "data": "BI43P2W02560002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-16,2000,BI43P2W,A427,CL21B105KOFNNNE,04/06/2022,UUID&IKIO24000317",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BI43P2W02560002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBI43P2W",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2222",
+        "type": "CODE39"
+    },
+    {
+        "data": "RX1685526490118",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-149,3000,JX23110058012M3A,B168,DSX321G,-,UUID&IKIO24000319",
+        "type": "QRCODE"
+    },
+    {
+        "data": "0603B153K500CT    4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "130L286181",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-150,4000,NA,B169,0603B153K500CT,-,UUID&IKIO24000320",
+        "type": "QRCODE"
+    },
+    {
+        "data": "130L286181",
+        "type": "CODE128"
+    },
+    {
+        "data": "14773692",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14773692",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060031-103",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "2D22CR057",
+        "type": "CODE128"
+    },
+    {
+        "data": "S-4E214044",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-22,2500,NA,A433,ZMM4V7,-,UUID&IKIO24000323",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QD1SG",
+        "type": "CODE39"
+    },
+    {
+        "data": "21216",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "012722MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-060015-2493",
+        "type": "CODE128"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1674542971940",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1674542971940",
+        "type": "CODE128"
+    },
+    {
+        "data": "21130",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "311147957",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E211019",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-92,3000,311147957,B116,4E211019,-,UUID&IKIO24000329",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1674543200294 ",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490006",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213046",
+        "type": "CODE128"
+    },
+    {
+        "data": "021022MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5232B",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-122,3000,NA,B146,4E213046,-,UUID&IKIO24000330",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490006",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213046",
+        "type": "CODE128"
+    },
+    {
+        "data": "021022MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5232B",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-65,5000,30109087H00900,A476,C2353,-,UUID&IKIO24000331",
+        "type": "QRCODE"
+    },
+    {
+        "data": "SINCERA-1,5000,NA,A412,4E060031-473,2,UUID&IKIO24005012",
+        "type": "QRCODE"
+    },
+    {
+        "data": "435529570-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X4702FTL    330M0068095185",
+        "type": "CODE93"
+    },
+    {
+        "data": "WR06X4702FTL    330M0068095185",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-1,5000,NA,A412,4E060031-473,-,UUID&IKIO24000332",
+        "type": "QRCODE"
+    },
+    {
+        "data": "13.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5240B",
+        "type": "CODE128"
+    },
+    {
+        "data": "111522MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1685526490058",
+        "type": "CODE128"
+    },
+    {
+        "data": "30403",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213078",
+        "type": "CODE128"
+    },
+    {
+        "data": "111522MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5240B",
+        "type": "CODE128"
+    },
+    {
+        "data": "CRD5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1T    58H7266384",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-151,5000,NA,B170,RC0805FR-073RL,30/07/2022,UUID&IKIO24000335",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2216",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL21B105KOFNNNE",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TAI3OIF6",
+        "type": "CODE39"
+    },
+    {
+        "data": "AI3OIF608410002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-16,2000,AI3OIF6,A427,CL21B105KOFNNNE,23/04/2022,UUID&IKIO24000336",
+        "type": "QRCODE"
+    },
+    {
+        "data": "AI3OIF608410002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2216",
+        "type": "CODE39"
+    },
+    {
+        "data": "AI3OIF608410002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TAI3OIF6",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2216",
+        "type": "CODE39"
+    },
+    {
+        "data": "WR06X103 JTL    330M1137321305",
+        "type": "CODE93"
+    },
+    {
+        "data": "440125694-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-7,5000,NA,A418,WR06X103JTL,-,UUID&IKIO24000338",
+        "type": "QRCODE"
+    },
+    {
+        "data": "WR06X103 JTL    330M1137321305",
+        "type": "CODE93"
+    },
+    {
+        "data": "440125694-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X103 JTL    5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X103 JTL    330M1137263945",
+        "type": "CODE93"
+    },
+    {
+        "data": "439690454-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X103 JTL    5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-80,2000,BI24P8X,B104,CL21B106KPQNNNE,19/03/2022,UUID&IKIO24000342",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BI24P8X05460002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBI24P8X",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL21B106KPQNNNE",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2211",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-12,4000,BH7TTD1,A423,CL10B474KO8NFNC,24/09/2021,UUID&IKIO24000343",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440407265-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X472 JTL    330M1023020035",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-9,5000,NA,A420,WR06X472JTL,-,UUID&IKIO24000344",
+        "type": "QRCODE"
+    },
+    {
+        "data": "QIK1690524161648",
+        "type": "CODE128"
+    },
+    {
+        "data": "30403",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213046",
+        "type": "CODE128"
+    },
+    {
+        "data": "021022MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5232B",
+        "type": "CODE128"
+    },
+    {
+        "data": "021022MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213046",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TBH8MT2U",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2139",
+        "type": "CODE39"
+    },
+    {
+        "data": "RO-ESPL232100002770",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-060017-561",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14768215",
+        "type": "CODE128"
+    },
+    {
+        "data": "1206S4F5600T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603SAF8200T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "13526329",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060031-821",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL220500001758",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603SAF8200T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "13526329",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060031-821",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL220500001758",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-152,5000,13526329,B171,4E060031-821,-,UUID&IKIO24000348",
+        "type": "QRCODE"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "13526329",
+        "type": "CODE128"
+    },
+    {
+        "data": "\u001c*PAH1806-W-7*1P*2PAH1806-W-7*T2234-N838725.D1*Q3000*TQ3000*1BN838725.D1-R009",
+        "type": "QRCODE"
+    },
+    {
+        "data": "N838725.D1-R009",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "2234-N838725.D1",
+        "type": "CODE128"
+    },
+    {
+        "data": "AH1806-W-7",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1674543537792",
+        "type": "CODE128"
+    },
+    {
+        "data": "30403",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213046",
+        "type": "CODE128"
+    },
+    {
+        "data": "021022MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5232B",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-122,3000,NA,B146,4E213046,-,UUID&IKIO24000349",
+        "type": "QRCODE"
+    },
+    {
+        "data": "4E213046",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1674543537792",
+        "type": "CODE128"
+    },
+    {
+        "data": "443039904-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603N220J500CT    4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-141,4000,NA,B160,0603N220J500CT,-,UUID&IKIO24000350",
+        "type": "QRCODE"
+    },
+    {
+        "data": "443039904-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "4E111189",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-12,4000,BH8CTD7,A423,CL10B474KO8NFNC,24/09/2021,UUID&IKIO24000351",
+        "type": "QRCODE"
+    },
+    {
+        "data": "1TBH8CTD7",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "SINCERA-8,5000,NA,A419,WR08X4701FTL,23/05/31,UUID&IKIO24005003",
+        "type": "QRCODE"
+    },
+    {
+        "data": "442991796-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "442991796-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "442991796-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-8,5000,NA,A419,WR08X4701FTL,-,UUID&IKIO24000352",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Y38123671003000WT0QDBPU",
+        "type": "CODE39"
+    },
+    {
+        "data": "Y38123671003000WT0QDBPU",
+        "type": "CODE39"
+    },
+    {
+        "data": "Y38123671003000WT0QDBPU",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-80,2000,AI14T4N,B104,CL21B106KPQNNNE,12/02/2022,UUID&IKIO24000354",
+        "type": "QRCODE"
+    },
+    {
+        "data": "AI14T4N01100002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TAI14T4N",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL21B106KPQNNNE",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2206",
+        "type": "CODE39"
+    },
+    {
+        "data": "PRC0603FR-070RL",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "2215",
+        "type": "CODE39"
+    },
+    {
+        "data": "1PRC0603FR-070RL",
+        "type": "CODE39"
+    },
+    {
+        "data": "30PRC0603FR-070RL",
+        "type": "CODE39"
+    },
+    {
+        "data": "PRC0603FR-070RL",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "2215",
+        "type": "CODE39"
+    },
+    {
+        "data": "1PRC0603FR-070RL",
+        "type": "CODE39"
+    },
+    {
+        "data": "1T38K4511027",
+        "type": "CODE39"
+    },
+    {
+        "data": "CN",
+        "type": "CODE128"
+    },
+    {
+        "data": "A313C8812104",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-47,3000,8212D3C-5469,A458,TBAT54C,LM,-,UUID&IKIO24000357",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Y38123671003000WT0QEAMS",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2222",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBI42P2R",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2222",
+        "type": "CODE39"
+    },
+    {
+        "data": "440125694-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X103 JTL    330M1137321275",
+        "type": "CODE93"
+    },
+    {
+        "data": "WR06X103 JTL    330M1137321275",
+        "type": "CODE93"
+    },
+    {
+        "data": "440125694-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD101050004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111189",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-77,4000,BH7TTD1,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000361",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD101050004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "0402B104K250CT    10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "135N018456",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E111230",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213078",
+        "type": "CODE128"
+    },
+    {
+        "data": "051723MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5240B",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-37,3000,NA,A448,MM1Z5240B,-,UUID&IKIO24000362",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213078",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-37,3000,NA,A448,MM1Z5240B,-,UUID&IKIO24000362",
+        "type": "QRCODE"
+    },
+    {
+        "data": "30816",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213078",
+        "type": "CODE128"
+    },
+    {
+        "data": "051723MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5240B",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1685526490007",
+        "type": "CODE128"
+    },
+    {
+        "data": "30315",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E213078",
+        "type": "CODE128"
+    },
+    {
+        "data": "111522MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "MM1Z5240B",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-37,3000,NA,A448,MM1Z5240B,-,UUID&IKIO24000364",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490007",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-23,3000,NA,A434,MMA02040C2493FB300,22/01/2023,UUID&IKIO24000365",
+        "type": "QRCODE"
+    },
+    {
+        "data": "14504050",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14504050",
+        "type": "CODE128"
+    },
+    {
+        "data": "BH7TTD1/CL10B474KO8NFNC/0240/4000",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD102400004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "BH7TTD1/CL10B474KO8NFNC/0240/4000",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-77,4000,BH7TTD1,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000368",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-77,4000,BH7TTD1,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000368",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD102400004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14773692",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060031-103",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603SAF1002T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14773692",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060031-103",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL232100001752",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-9,5000,NA,A420,WR06X472JTL,-,UUID&IKIO24000370",
+        "type": "QRCODE"
+    },
+    {
+        "data": "WR06X472 JTL    5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "440407265-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X472 JTL    330M1023021225",
+        "type": "CODE93"
+    },
+    {
+        "data": "DD2502F4000Q",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-13,2000,RI5APA9,A424,CL21B106KQQNNNE,18/06/2022,UUID&IKIO24000372",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2224",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TRI5APA9",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-13,2000,BI4TP8N,A424,CL21B106KQQNNNE,11/06/2022,UUID&IKIO24000373",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2223",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "10D2227",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "4LCN",
+        "type": "CODE128"
+    },
+    {
+        "data": "K3421759",
+        "type": "CODE128"
+    },
+    {
+        "data": "PRC0603FR-0710KL",
+        "type": "CODE128"
+    },
+    {
+        "data": "30PRC0603FR-0710K",
+        "type": "CODE128"
+    },
+    {
+        "data": "1T38L15705360151",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD106090004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111189",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD106090004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111189",
+        "type": "CODE128"
+    },
+    {
+        "data": "BH84T24/CL10B474KO8NFNC/0035/4000",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH84T2400350004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2139",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8PT5L06060004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-12,4000,BH8MT2U,A423,CL10B474KO8NFNC,01/10/2021,UUID&IKIO24000346",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2139",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8MT2U",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA704820004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "SINCERA-2,4000,NA,A413,0603N103J500CT,23/01/13,UUID&IKIO24005011",
+        "type": "QRCODE"
+    },
+    {
+        "data": "SINCERA-2,4000,NA,A413,0603N103J500CT,23/01/13,UUID&IKIO24005011",
+        "type": "QRCODE"
+    },
+    {
+        "data": "SINCERA-2,4000,NA,A413,0603N103J500CT,23/01/13,UUID&IKIO24005011",
+        "type": "QRCODE"
+    },
+    {
+        "data": "13869171",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "13869171",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-22,2500,NA,A433,ZMM4V7,-,UUID&IKIO24000378",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "TK",
+        "type": "CODE128"
+    },
+    {
+        "data": "30413",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "012722MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000379",
+        "type": "QRCODE"
+    },
+    {
+        "data": "30413",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "012722MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "30413",
+        "type": "CODE128"
+    },
+    {
+        "data": "4LTW",
+        "type": "CODE39"
+    },
+    {
+        "data": "V",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "10D2105",
+        "type": "CODE39"
+    },
+    {
+        "data": "1T38J5220546",
+        "type": "CODE39"
+    },
+    {
+        "data": "PRC0603FR-071K5L",
+        "type": "CODE128"
+    },
+    {
+        "data": "30PRC0603FR-071K5",
+        "type": "CODE128"
+    },
+    {
+        "data": "1T38J52205460222",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE39"
+    },
+    {
+        "data": "4LTW",
+        "type": "CODE39"
+    },
+    {
+        "data": "10D2105",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1T38J5220546",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-154,5000,38J5220546,B173,RC0603FR-071K5L,05/02/2021,UUID&IKIO24000380",
+        "type": "QRCODE"
+    },
+    {
+        "data": "4LTW",
+        "type": "CODE39"
+    },
+    {
+        "data": "V",
+        "type": "CODE39"
+    },
+    {
+        "data": "1206S4F2493T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686525",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-060017-2493",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL231800003811",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-87,5000,14686525,B111,4E-060017-2493,-,UUID&IKIO24000382",
+        "type": "QRCODE"
+    },
+    {
+        "data": "14686525",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QDBQ5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QDBQ5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QDBQ5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QDBQ5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QDBQ5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QDBQ5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QDBQ5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QDBQ5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-47,3000,8212D3A-5179,A458,TBAT54C,LM,-,UUID&IKIO24000383",
+        "type": "QRCODE"
+    },
+    {
+        "data": "0077",
+        "type": "CODE128"
+    },
+    {
+        "data": "KMB-2207130077",
+        "type": "CODE128"
+    },
+    {
+        "data": "6580000100",
+        "type": "I25"
+    },
+    {
+        "data": "0077",
+        "type": "CODE128"
+    },
+    {
+        "data": "CR-03JA7----0R/5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "0077",
+        "type": "CODE128"
+    },
+    {
+        "data": "0077",
+        "type": "CODE128"
+    },
+    {
+        "data": "0077",
+        "type": "CODE128"
+    },
+    {
+        "data": "0077",
+        "type": "CODE128"
+    },
+    {
+        "data": "CR-03JA7----0R/5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "30413",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "012722MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000385",
+        "type": "QRCODE"
+    },
+    {
+        "data": "30413",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "012722MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "HBEH230310730068",
+        "type": "CODE39"
+    },
+    {
+        "data": "440407265-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X472 JTL    330M1023021365",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-9,5000,NA,A420,WR06X472JTL,-,UUID&IKIO24000387",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440407265-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q750",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E217095",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q750",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-156,750,MB803543.3,B179,SMBJ85A-E3/52,-,UUID&IKIO24000388",
+        "type": "QRCODE"
+    },
+    {
+        "data": "1TMB803543.3",
+        "type": "CODE128"
+    },
+    {
+        "data": "10D2303",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q750",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PSMBJ85A-E3/52",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-5,10000,NA,A416,0402B104K250CT,-,UUID&IKIO24000389",
+        "type": "QRCODE"
+    },
+    {
+        "data": "135N018456",
+        "type": "CODE128"
+    },
+    {
+        "data": "0402B104K250CTNB135N01845601610",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2211",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL21B106KPQNNNE",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBI24P8X",
+        "type": "CODE39"
+    },
+    {
+        "data": "BI24P8X06360002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111177",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2211",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL21B106KPQNNNE",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBI24P8X",
+        "type": "CODE39"
+    },
+    {
+        "data": "BI24P8X06360002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111177",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-4,4000,NA,A415,0603B104K500CT,-,UUID&IKIO24000391",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440567537-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "440125679-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-7,5000,NA,A418,WR06X103JTL,-,UUID&IKIO24000392",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440125679-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "WR06X103 JTL    330M1137324935",
+        "type": "CODE93"
+    },
+    {
+        "data": "Y38123671003000WT0QEAN5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "Y38123671003000WT0QEAN5",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "62",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-100,3000,WEPB3964314A,B124,NX3008PBK,08/10/2022,UUID&IKIO24000393",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1674543546662",
+        "type": "CODE128"
+    },
+    {
+        "data": "1P934065642215",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q30J0",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2240",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TWEPB3964314A",
+        "type": "CODE39"
+    },
+    {
+        "data": "62",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-157,10000,IA3218UL7,B180,GCM1555C1H8R2CA16D,-,UUID&IKIO24000394",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PCC1206KKX7R9BB106",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2215",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "PCC1206KKX7R9BB106",
+        "type": "CODE128"
+    },
+    {
+        "data": "30PC1206KKX7R9BB106",
+        "type": "CODE128"
+    },
+    {
+        "data": "1T59F06565331972",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "K3421759",
+        "type": "CODE128"
+    },
+    {
+        "data": "4LCN",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "K3421759",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-158,5000,38L1570536,B181,RC0603FR-0710KL,09/07/2022,UUID&IKIO24000396",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-159,3000,2066741HFT,B182,TMAG5273A20DBVR,-,UUID&IKIO24000397",
+        "type": "QRCODE"
+    },
+    {
+        "data": "435799397-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603N103J500CT    4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "440848519-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603N103J500CTXW135M0332394044",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-2,4000,NA,A413,0603N103J500CT,23/01/13,UUID&IKIO24000399",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD102400004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "16.03.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-12,4000,BH7TTD1,A423,CL10B474KO8NFNC,24/09/2021,UUID&IKIO24000400",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD102400004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1T0834697087+S099412586",
+        "type": "CODE128"
+    },
+    {
+        "data": "T2335",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PMPZ1608S260ATDH5",
+        "type": "CODE128"
+    },
+    {
+        "data": "VTDK",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "6PU26111607JPN0000163969",
+        "type": "CODE128"
+    },
+    {
+        "data": "POLABEK084",
+        "type": "CODE128"
+    },
+    {
+        "data": "1SU023F022810040Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "U023F022810040",
+        "type": "CODE128"
+    },
+    {
+        "data": "6PU26111607JPN",
+        "type": "CODE128"
+    },
+    {
+        "data": "T2335",
+        "type": "CODE128"
+    },
+    {
+        "data": "VTDK",
+        "type": "CODE128"
+    },
+    {
+        "data": "6PU26111607JPN0000163969",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "POLABEK084",
+        "type": "CODE128"
+    },
+    {
+        "data": "6PU26111607JPN",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-161,4000,0834697087+S099412586,B184,MPZ1608S260ATDH5,T2335,UUID&IKIO24000401",
+        "type": "QRCODE"
+    },
+    {
+        "data": "1T0834697087+S099412586",
+        "type": "CODE128"
+    },
+    {
+        "data": "T2335",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PMPZ1608S260ATDH5",
+        "type": "CODE128"
+    },
+    {
+        "data": "VTDK",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "6PU26111607JPN0000163969",
+        "type": "CODE128"
+    },
+    {
+        "data": "POLABEK084",
+        "type": "CODE128"
+    },
+    {
+        "data": "U023F022810040",
+        "type": "CODE128"
+    },
+    {
+        "data": "1SU023F022810040Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "6PU26111607JPN",
+        "type": "CODE128"
+    },
+    {
+        "data": "0402B104K250CT    10000",
+        "type": "CODE128"
+    },
+    {
+        "data": "135N018456",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-162,10000,NA,B185,04025A220JATN,23/02/16,UUID&IKIO24000403",
+        "type": "QRCODE"
+    },
+    {
+        "data": "441285105-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-163,5000,30106083H00900,B186,C2348,-,UUID&IKIO24000404",
+        "type": "QRCODE"
+    },
+    {
+        "data": "A313C8812104",
+        "type": "CODE128"
+    },
+    {
+        "data": "CN",
+        "type": "CODE128"
+    },
+    {
+        "data": "GRM188R72A104KA35D",
+        "type": "CODE128"
+    },
+    {
+        "data": "4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "PGRM188R72A104KA35D",
+        "type": "CODE128"
+    },
+    {
+        "data": "A313C8812104",
+        "type": "CODE128"
+    },
+    {
+        "data": "CN",
+        "type": "CODE128"
+    },
+    {
+        "data": "WG3107WF4",
+        "type": "CODE128"
+    },
+    {
+        "data": "GRM188R72A104KA35D",
+        "type": "CODE128"
+    },
+    {
+        "data": "4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "PGRM188R72A104KA35D",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-164,4000,N0WG310,B187,GRM188R72A104KA35D,-,UUID&IKIO24000405",
+        "type": "QRCODE"
+    },
+    {
+        "data": "A313C8812104",
+        "type": "CODE128"
+    },
+    {
+        "data": "CN",
+        "type": "CODE128"
+    },
+    {
+        "data": "GRM188R72A104KA35D",
+        "type": "CODE128"
+    },
+    {
+        "data": "4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "PGRM188R72A104KA35D",
+        "type": "CODE128"
+    },
+    {
+        "data": "\u001c*PAH1806-W-7*1P*2PAH1806-W-7*T2234-N838725.D1*Q3000*TQ3000*1BN838725.D1-R009",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490077",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "\u001c*PAH1806-W-7*1P*2PAH1806-W-7*T2234-N838725.D1*Q3000*TQ3000*1BN838725.D1-R009",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490077",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-165,3000,2234-N838725D1,B188,AH1806-W-7,-,UUID&IKIO24000406",
+        "type": "QRCODE"
+    },
+    {
+        "data": "\u001c*PAH1806-W-7*1P*2PAH1806-W-7*T2234-N838725.D1*Q3000*TQ3000*1BN838725.D1-R009",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-165,3000,2234-N838725D1,B188,AH1806-W-7,-,UUID&IKIO24000406",
+        "type": "QRCODE"
+    },
+    {
+        "data": "\u001c*PAH1806-W-7*1P*2PAH1806-W-7*T2234-N838725.D1*Q3000*TQ3000*1BN838725.D1-R009",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-165,3000,2234-N838725D1,B188,AH1806-W-7,-,UUID&IKIO24000406",
+        "type": "QRCODE"
+    },
+    {
+        "data": "\u001c*PAH1806-W-7*1P*2PAH1806-W-7*T2234-N838725.D1*Q3000*TQ3000*1BN838725.D1-R009",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490077",
+        "type": "CODE128"
+    },
+    {
+        "data": "N838725.D1-R009",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "2234-N838725.D1",
+        "type": "CODE128"
+    },
+    {
+        "data": "AH1806-W-7",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000305",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000305",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-40,3000,NA,A451,1N4007W-HAF,-,UUID&IKIO24000305",
+        "type": "QRCODE"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1690524161602",
+        "type": "CODE128"
+    },
+    {
+        "data": "21128",
+        "type": "CODE128"
+    },
+    {
+        "data": "3,000 ",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-211004-",
+        "type": "CODE128"
+    },
+    {
+        "data": "081921MC",
+        "type": "CODE128"
+    },
+    {
+        "data": "1N4007W-HAF",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-112,3000,3060419EM3,B136,LP2981IM5X-36C,12/03/2023,UUID&IKIO24000408",
+        "type": "QRCODE"
+    },
+    {
+        "data": "RX1685526490059",
+        "type": "CODE128"
+    },
+    {
+        "data": "RX1685526490059",
+        "type": "CODE128"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-22,2500,NA,A433,ZMM4V7,TK01DZB02HJ03H5-S,UUID&IKIO24000409",
+        "type": "QRCODE"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "QTY 2,500  PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-22,2500,NA,A433,ZMM4V7,TK01DZB02HJ03H5-S,UUID&IKIO24000409",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TYPE ZMM4V7",
+        "type": "CODE128"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-22,2500,NA,A433,ZMM4V7,TK01DZB02HJ03H5-S,UUID&IKIO24000409",
+        "type": "QRCODE"
+    },
+    {
+        "data": "2",
+        "type": "CODE128"
+    },
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2207",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TAI19T8D",
+        "type": "CODE128"
+    },
+    {
+        "data": "AI19T8D01500004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111086",
+        "type": "CODE128"
+    },
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2207",
+        "type": "CODE128"
+    },
+    {
+        "data": "AI19T8D01500004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4LPH",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2207",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TAI19T8D",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PCL10B103KB8NNNC",
+        "type": "CODE128"
+    },
+    {
+        "data": "AI19T8D01500004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA710790004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111189",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA710790004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-77,4000,BH8DTA7,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000411",
+        "type": "QRCODE"
+    },
+    {
+        "data": "1TBHH",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-77,4000,BH8DTA7,B101,CL10B474K08NFNC,24/09/2021,UUID&IKIO24000411",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA710790004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-23,3000,HBEH224830790014,A434,MMA02040C2493FB300,03/12/2022,UUID&IKIO24000415",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2241",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "PCC1206KRX7R9BB104",
+        "type": "CODE128"
+    },
+    {
+        "data": "30PC1206KRX7R9BB104",
+        "type": "CODE128"
+    },
+    {
+        "data": "1T59F06565333996",
+        "type": "CODE128"
+    },
+    {
+        "data": "T805S8F120JT5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14271740",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-060019-120",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL224500000301",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E231167",
+        "type": "CODE128"
+    },
+    {
+        "data": "39",
+        "type": "CODE39"
+    },
+    {
+        "data": "1P934065642215",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2303",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TWEPC0250162A",
+        "type": "CODE39"
+    },
+    {
+        "data": "39",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2139",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8PT5L",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8PT5L06210004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-77,4000,BH8PT5L,B101,CL10B474K08NFNC,01/10/2021,UUID&IKIO24000417",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-77,4000,BH8PT5L,B101,CL10B474K08NFNC,01/10/2021,UUID&IKIO24000417",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2139",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH8PT5L",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8PT5L06210004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2210",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TAI19IJG",
+        "type": "CODE39"
+    },
+    {
+        "data": "AI19IJG10490002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-16,2000,AI19IJG,A427,CL21B105KOFNNNE,12/03/2022,UUID&IKIO24000418",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-23,3000,HBEH224830724070,A434,MMA02040C2493FB300,03/12/2022,UUID&IKIO24000419",
+        "type": "QRCODE"
+    },
+    {
+        "data": "f45775b673",
+        "type": "CODE128"
+    },
+    {
+        "data": "46",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-18,3000,1E251809G17,A429,TLV493D-A1B6,26/02/2023,UUID&IKIO24000421",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-18,3000,1E251809G17,A429,TLV493D-A1B6,26/02/2023,UUID&IKIO24000421",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-18,3000,1E251809G17,A429,TLV493D-A1B6,26/02/2023,UUID&IKIO24000421",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-18,3000,1E251809G17,A429,TLV493D-A1B6,26/02/2023,UUID&IKIO24000421",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-18,3000,1E251809G17,A429,TLV493D-A1B6,26/02/2023,UUID&IKIO24000421",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3PMA0056993991T1E251809G17S94349",
+        "type": "CODE128"
+    },
+    {
+        "data": "3PMA005699399",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2308",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PSP001286056",
+        "type": "CODE128"
+    },
+    {
+        "data": "1T1E251809G17",
+        "type": "CODE128"
+    },
+    {
+        "data": "4LTW",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q5000",
+        "type": "CODE39"
+    },
+    {
+        "data": "V",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-154,5000,38J5220546,B173,RC0603FR-071K5L,05/02/2021,UUID&IKIO24000422",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE39"
+    },
+    {
+        "data": "17.04.2024",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-214002-1",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-80,10000,NA,B104,CL21B106KPQNNNE,23/02/07,UUID&IKIO24000424",
+        "type": "QRCODE"
+    },
+    {
+        "data": "PC004$2000$AI13T2Z$60364$",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440732952-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "1TIA2222AC8",
+        "type": "CODE128"
+    },
+    {
+        "data": "1PGCJ21BR72A473KA01L",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "PGCJ21BR72A473KA01L",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-59,3000,IA2222AC8,A470,GCJ21BR72A473KA01L,2023-08-06,UUID&IKIO24000425",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-59,3000,IA2222AC8,A470,GCJ21BR72A473KA01L,2023-08-06,UUID&IKIO24000425",
+        "type": "QRCODE"
+    },
+    {
+        "data": "1TIA2222AC8",
+        "type": "CODE128"
+    },
+    {
+        "data": "Q3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "PGCJ21BR72A473KA01L",
+        "type": "CODE128"
+    },
+    {
+        "data": "BH8DTA707890004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBH8DTA7",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "4E111189",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH8DTA707890004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "14359737",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "BI43P2W03030002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBI43P2W",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL21B105KOFNNNE",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2222",
+        "type": "CODE39"
+    },
+    {
+        "data": "BI43P2W03030002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "1TBI43P2W",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL21B105KOFNNNE",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2222",
+        "type": "CODE39"
+    },
+    {
+        "data": "TEST-12,4000,BH8MT2U,A423,CL10B474KO8NFNC,01/10/2021,UUID&IKIO24000428",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "RX1674543170003",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "RX1674543170003",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "RX1674543170003",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE39"
+    },
+    {
+        "data": "RX1674543170003",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-5,10000,NA,A416,0402B104K250CT,23/05/16,UUID&IKIO24000429",
+        "type": "QRCODE"
+    },
+    {
+        "data": "135N018456",
+        "type": "CODE128"
+    },
+    {
+        "data": "135N018456",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-87,5000,14686525,B111,4E-060017-2493,-,UUID&IKIO24000431",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440125694-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "440125694-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "440125694-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-7,5000,NA,A418,WR06X103JTL,22/12/04,UUID&IKIO24000437",
+        "type": "QRCODE"
+    },
+    {
+        "data": "440125694-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686522",
+        "type": "CODE128"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "311147957",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E211019",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-92,3000,311147957,B116,4E211019,-,UUID&IKIO24000441",
+        "type": "QRCODE"
+    },
+    {
+        "data": "3000",
+        "type": "CODE128"
+    },
+    {
+        "data": "311147957",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E211019",
+        "type": "CODE128"
+    },
+    {
+        "data": "BH7TTD1/CL10B474KO8NFNC/0570/4000",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD105700004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD105700004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD105700004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD105700004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111189",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD105700004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "TCL10B474KO8NFNC",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TBH7TTD1",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD105700004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "TEST-12,4000,BH7TTD1,A423,CL10B474KO8NFNC,24/09/2021,UUID&IKIO24000447",
+        "type": "QRCODE"
+    },
+    {
+        "data": "BH7TTD1/CL10B474KO8NFNC/0570/4000",
+        "type": "QRCODE"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "BH7TTD105700004000",
+        "type": "CODE93"
+    },
+    {
+        "data": "(1P) MPN: RC1206FR-073K3L",
+        "type": "QRCODE"
+    },
+    {
+        "data": "(P) CPN: RC1206FR-073K3L",
+        "type": "CODE128"
+    },
+    {
+        "data": "(Q) QTY: 5000 PCS",
+        "type": "CODE128"
+    },
+    {
+        "data": "(9D) DC: 2146",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-4,4000,NA,A415,0603B104K500CT,22/12/24,UUID&IKIO24000449",
+        "type": "QRCODE"
+    },
+    {
+        "data": "0603B104K500CTXW135M0327906644",
+        "type": "CODE93"
+    },
+    {
+        "data": "440567572-10",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603B104K500CT    4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-23,3000,HBEH224930664117,A434,MMA02040C2493FB300,10/12/2022,UUID&IKIO24000451",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-58,5000,NA,A469,4E060031-472,22/02/14,UUID&IKIO24000452",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-58,5000,NA,A469,4E060031-472,22/02/14,UUID&IKIO24000452",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q4000",
+        "type": "CODE39"
+    },
+    {
+        "data": "9D2138",
+        "type": "CODE39"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686281",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "5cb7baefb8",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "QIK1695360008",
+        "type": "QRCODE"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE128"
+    },
+    {
+        "data": "V",
+        "type": "CODE128"
+    },
+    {
+        "data": "13526289",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686281",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686281",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E060031-224",
+        "type": "CODE128"
+    },
+    {
+        "data": "130M028697",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603B153K500CTSB130M0286971724",
+        "type": "CODE93"
+    },
+    {
+        "data": "4E111115",
+        "type": "CODE128"
+    },
+    {
+        "data": "TEST-150,4000,NA,B169,0603B153K500CT,22/03/18,UUID&IKIO24000465",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-150,4000,NA,B169,0603B153K500CT,22/03/18,UUID&IKIO24000466",
+        "type": "QRCODE"
+    },
+    {
+        "data": "TEST-150,4000,NA,B169,0603B153K500CT,22/03/18,UUID&IKIO24000465",
+        "type": "QRCODE"
+    },
+    {
+        "data": "0603B153K500CT    4000",
+        "type": "CODE128"
+    },
+    {
+        "data": "130M028697",
+        "type": "CODE128"
+    },
+    {
+        "data": "0603B153K500CTSB130M0286971724",
+        "type": "CODE93"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686281",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686281",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686281",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "9D2216",
+        "type": "CODE39"
+    },
+    {
+        "data": "Q2000",
+        "type": "CODE39"
+    },
+    {
+        "data": "1TAI3OIF6",
+        "type": "CODE39"
+    },
+    {
+        "data": "AI3OIF608690002000",
+        "type": "CODE93"
+    },
+    {
+        "data": "CR-03JA7---4K7-,RK00429,5000",
+        "type": "QRCODE"
+    },
+    {
+        "data": "QIK1695359999",
+        "type": "QRCODE"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "CR-03JA7---4K7-,RK00429,5000",
+        "type": "QRCODE"
+    },
+    {
+        "data": "QIK1695359999",
+        "type": "QRCODE"
+    },
+    {
+        "data": "2021-11-23",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "T805S8F120JT5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "14271740",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-060019-120",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL224500000301",
+        "type": "CODE128"
+    },
+    {
+        "data": "1206S4F2493T5E",
+        "type": "CODE128"
+    },
+    {
+        "data": "5000",
+        "type": "CODE128"
+    },
+    {
+        "data": "14686525",
+        "type": "CODE128"
+    },
+    {
+        "data": "4E-060017-2493",
+        "type": "CODE128"
+    },
+    {
+        "data": "RO-ESPL231800004209",
+        "type": "CODE128"
+    }
+]
