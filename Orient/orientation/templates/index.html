@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Deskewing Tool</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Image Deskewing Tool</h1>
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="file">
+            <button type="submit">Upload and Deskew</button>
+        </form>
+
+        <form action="{{ url_for('capture') }}" method="post">
+            <button type="submit">Capture from Webcam</button>
+        </form>
+
+        {% if original %}
+            <h2>Original Image</h2>
+            <img src="{{ url_for('static', filename='uploads/' + original) }}" alt="Original Image">
+        {% endif %}
+
+        {% if corrected %}
+            <h2>Corrected Image</h2>
+            <img src="{{ url_for('static', filename='uploads/' + corrected) }}" alt="Corrected Image">
+            <p>Deskew Angle: {{ angle }} degrees</p>
+        {% endif %}
+    </div>
+</body>
+</html>
